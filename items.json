@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Vintage Lamp",
+      "description": "A beautiful vintage lamp with intricate designs, perfect for adding a touch of elegance to any room."
+    },
+    {
+      "id": 2,
+      "name": "Leather Journal",
+      "description": "A handcrafted leather journal with thick, high-quality pages for writing and sketching."
+    },
+    {
+      "id": 3,
+      "name": "Ceramic Vase",
+      "description": "A stunning ceramic vase with a modern, minimalist design, ideal for displaying fresh flowers."
+    },
+    {
+      "id": 4,
+      "name": "Wooden Clock",
+      "description": "A rustic wooden clock that adds a charming, farmhouse feel to any wall."
+    },
+    {
+      "id": 5,
+      "name": "Wool Blanket",
+      "description": "A soft and cozy wool blanket, perfect for snuggling up on chilly evenings."
+    },
+    {
+      "id": 6,
+      "name": "Copper Mug",
+      "description": "A sleek and stylish copper mug, perfect for enjoying hot or cold beverages."
+    }
+  ]
+  
